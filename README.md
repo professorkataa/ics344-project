@@ -1,1 +1,1 @@
-these are the scripts codes that used for project ics344 for team 46 
+these are script codes that used for project ics344 for team 46 
